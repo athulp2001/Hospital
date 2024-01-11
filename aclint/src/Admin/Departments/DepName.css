@@ -1,0 +1,26 @@
+.fromDiv{
+
+   
+    width:500px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 40px;
+    
+    
+}
+.labelsName{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.inpBox{
+   
+   
+    width: 80%;
+}
+.ChooseFile{
+    margin-left: 18%;
+}
+
+

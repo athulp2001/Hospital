@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(33, 33, 120);
+}
+.MainSection {
+    background-image: url(../AllImages/sinImg.avif);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.mainDiv{
+   
+    border: solid;
+    border-radius: 30px;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px 100px;
+    width: 400px;
+    height: 500px; 
+    
+    
+}
+.inpbox{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 70%;
+    height: 35px;
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(226, 217, 217);
+}
+.labelname{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+   text-align: left;
+    
+}
+.regButton{
+    width: 50%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: rgba(252, 254, 255, 0.5);
+    border-color: black;
+    border: solid;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+}
+.regButton:hover{
+    background-color: rgb(255, 255, 255);
+    
+    border-color: black;
+}
+.LogButton{
+    width: 50%;
+    height: 40px;
+    padding-bottom: 4px;
+    border: solid;
+    border-color: black;
+    border-radius: 30px; 
+    background-color: rgba(11, 152, 227, 0.5);
+}
+.LogButton:hover{
+    background-color: rgb(246, 255, 0);
+    color: white;
+    border-color: black;
+}
+.linklog{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    
+
+
+}

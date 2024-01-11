@@ -1,0 +1,31 @@
+.navBa{
+    color: white;
+    background-color: rgb(4, 194, 211);
+    width: 100%;
+    padding-top: 5px;
+    height: 70px;
+    margin-top: -10px;
+    border-bottom: solid;
+    border-color: rgb(200, 194, 194);
+}
+.brandName{
+   color: white;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.homesection{
+    color: white;
+    background-color: rgb(0, 83, 128);
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.homesection:hover{
+    background-color: black;
+    color: white;
+}
